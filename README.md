@@ -5,3 +5,7 @@ This is a tray application that let's you add various software to for quick laun
 various applications for easy access. Comments for each application can also be added.
 
 Please note, contains external software - Notepad2, please read and acknowledge it's license.
+
+Screenshot:
+
+![alt text](https://raw.githubusercontent.com/activatedtmx/HandyTray/master/sample_screenshot.png)
